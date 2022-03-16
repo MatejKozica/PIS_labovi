@@ -6,5 +6,9 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        int metod()
+        {
+            return 6;
+        }
     }
 }

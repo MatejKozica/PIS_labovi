@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         int metoda()
         {
-            return 3;
+            return 6;
         }
     }
 }

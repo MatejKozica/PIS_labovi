@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-        int metod()
+        int metoda()
         {
             return 6;
         }
